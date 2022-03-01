@@ -1,0 +1,8 @@
+id: page-not-found
+fields:
+  pageTitle: Page Not Found
+placeholders:
+  jss-main:
+    - componentName: PageNotFound
+      fields:
+        PageNotFoundText: Page Not Found. Please check your url
