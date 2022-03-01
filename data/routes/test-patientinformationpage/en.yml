@@ -1,0 +1,12 @@
+id: patient-info
+fields:
+  pageTitle: Patient Information - Sample
+placeholders:
+  jss-main:
+    - componentName: PatientInformation
+      fields:
+        firstName: First Patient
+        lastName: New
+        dob: 1-May-2022
+        gender: Male
+        phoneNumber: 2987343

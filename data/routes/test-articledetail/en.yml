@@ -1,0 +1,10 @@
+id: article-detail
+fields:
+  pageTitle: Article Detail Sample
+placeholders:
+  jss-main:
+    - componentName: ArticleDetail
+      fields:
+        articleTitle: My first component
+        articleShortDescription: This is coming from en.yml in my local
+        articleDetailedDescription: Test

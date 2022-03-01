@@ -1,0 +1,10 @@
+id: patient-prescription
+fields:
+  pageTitle: Patient Prescription - Sample
+placeholders:
+  jss-main:
+    - componentName: DoctorPrescription
+      fields:
+        patientName: First Patient
+        patientAge: 32
+        patientPrescription: colpol
